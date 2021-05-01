@@ -10,4 +10,4 @@ NOTE: **don't do the first bulleted step if you have installed nodemon before**
 
 - Typing `nodemon` or `nodemon app.js`
 
-2 - Enter the url: "localhost:3000/" and "localhost:3000/compose"
+2 - Enter the url: http://localhost:3000/ and http://localhost:3000/compose
